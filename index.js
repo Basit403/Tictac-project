@@ -56,7 +56,7 @@ const winningcombinations = [
     { combo: [7, 8, 9,], strikeclass: "strike-row-3"},
 
     { combo: [1, 4, 7,], strikeclass: "strike-column-1"},
-    { combo: [1, 5, 8,], strikeclass: "strike-column-2"},
+    { combo: [2, 5, 8,], strikeclass: "strike-column-2"},
     { combo: [3, 6, 9,], strikeclass: "strike-column-3"},
 
     { combo: [1, 5, 9,], strikeclass: "strike-diagonal-1"},
